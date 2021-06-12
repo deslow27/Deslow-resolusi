@@ -4,10 +4,15 @@ Rencana Konten Deslow
 - JavaScript
   . ES6
   . Framework
-    ^ Angular
-    ^ React
 - Framework PHP
   ^ Laravel
 - HTML & CSS
 - HTML& CSS Framework
-
+  . Vue
+  . React
+- Framework PHP
+  . Laravel
+- HTML & CSS
+- HTML& CSS Framework
+- Struktur Data Dasar
+- Python
