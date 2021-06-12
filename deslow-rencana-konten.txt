@@ -5,6 +5,7 @@ Rencana Konten Deslow
   . ES6
   . Framework
   . Vue
+  . React
 - Framework PHP
   . Laravel
 - HTML & CSS
